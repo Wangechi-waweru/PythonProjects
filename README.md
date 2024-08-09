@@ -7,5 +7,5 @@
 
 1. **[Simple Stock Price](https://github.com/Wangechi-waweru/project1StockPrice).**
 
- <h3>**[100 days of code](https://github.com/Wangechi-waweru/a100DaysOfCode)**</h3>
+ **[100 days of code](https://github.com/Wangechi-waweru/a100DaysOfCode)**
  
