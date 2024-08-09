@@ -6,3 +6,6 @@
 <h3> 12 Data Science apps with python and streamlit</h3>
 
 1. **[Simple Stock Price](https://github.com/Wangechi-waweru/project1StockPrice).**
+
+ <h3>**[100 days of code](https://github.com/Wangechi-waweru/a100DaysOfCode)**</h3>
+ 
